@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="pi@192.168.137.37:22 (4)" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="pi@192.168.137.37:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/pi4InkM620" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.137.37:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/pi4InkM620" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.137.37:22 (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/pi4Ink" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.137.37:22 (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/pi4Ink" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.188.106:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.188.106:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.188.106:22 (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.188.106:22 (4)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.188.106:22 (5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/Pi4Ink" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.188.32:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/Desktop/python" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.188.32:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.188.32:22 (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.188.32:22 (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/Desktop/DAC_AD5593" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.188.32:22 (5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/Desktop/DAC_AD5593" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.188.37:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/Desktop" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.188.37:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.188.53:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/Pi4Ink" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.188.53:22 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/Pi4Ink" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pi@192.168.188.53:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/Pi4Ink" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
